@@ -1,0 +1,38 @@
+{
+  "name": "review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "dev": "node server.js"
+  },
+  "author": "Brian McDermott",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chart.js": "^1.1.1",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "fs": "0.0.2",
+    "fs-extra": "^7.0.1",
+    "ganache-cli": "^6.3.0",
+    "mocha": "^5.2.0",
+    "net": "^1.0.2",
+    "next": "^4.1.4",
+    "next-routes": "^1.4.2",
+    "nodemailer": "^5.1.1",
+    "react": "^16.7.0",
+    "react-chartjs": "^1.2.0",
+    "react-dom": "^16.7.0",
+    "request": "^2.88.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.85.0",
+    "solc": "^0.4.25",
+    "tls": "0.0.1",
+    "truffle-hdwallet-provider": "0.0.3",
+    "truffle-hdwallet-provider-privkey": "^1.0.3",
+    "twilio": "^3.29.0",
+    "web3": "^1.0.0-beta.35"
+  }
+}

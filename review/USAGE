@@ -1,0 +1,33 @@
+
+USAGE instructions for the Ethereum dApp
+
+1. cd into the 'review' directory, run 'npm install' - this will take a few mins
+
+2. In Chrome, visit the web store, and search for 'metamask'. Install it.
+3. Go to the login page of the Metamask extension(it should appear in the chrome toolbar - upper right)
+4. Click 'Import using account seed phrase'.
+5. Use:
+front olive pear grape eight fetch dynamic brain abandon token nothing need
+
+6. Change the passwords to anything you want.
+7. In the Metamask extension, make sure Account 2 is selected.
+
+8. In server.js fill in your email / password at line 59
+9. from the review directory again, run 'npm run dev'
+    - Before long you should see a message saying the app is running on
+      localhost:3000
+10. Visit localhost:3000
+11. The app should be ready for use.
+12. Make sure you are signed in to Metamask on Account 2.
+
+You can either:
+
+13. Buy an item, and find the invitation to review it in the inbox
+   of the email you provided in step 8. It should arrive within 30 seconds.
+14. Click the link and enter a review. Submit the review.
+15. Visit the reviews page for the item to view your review retrieved from the blockchain.
+
+OR
+
+16. Simply click on the reviews for the Quantum Laptop and see reviews that have
+just been pulled from the blockchain.
