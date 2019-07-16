@@ -1,4 +1,5 @@
 A Blockchain-based Rating & Review Management System
+----------------------------------------------------
 
 This project was undertaken as a part of my degree in Computer Science.
 
