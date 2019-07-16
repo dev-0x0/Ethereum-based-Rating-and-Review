@@ -1,7 +1,10 @@
-A Blockchain-based Rating & Review Management System
-----------------------------------------------------
+A Blockchain-based Rating & Review Management System for E-commerce
+-------------------------------------------------------------------
 
-This project was undertaken as a part of my degree in Computer Science.
+This project was undertaken during my final year of a degree in Computer Science.
+
+Here is a link to my full report on the project: 
+https://drive.google.com/file/d/1JRa_KihH4Gopo4p28SmSYopL7iruWvSe/view?usp=sharing
 
 __Goals__:
 - Design and develop a blockchain-based system which can be used to store and manage the rating
