@@ -19,7 +19,7 @@
     "ganache-cli": "^6.3.0",
     "mocha": "^5.2.0",
     "net": "^1.0.2",
-    "next": "^4.1.4",
+    "next": "^9.3.3",
     "next-routes": "^1.4.2",
     "nodemailer": "^5.1.1",
     "react": "^16.7.0",
