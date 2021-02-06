@@ -20,7 +20,7 @@ const deploy = async () => {
 
     const factory = new web3.eth.Contract(
         JSON.parse(vendorFactory.interface),            // ABI of VendorFactory contract
-        '0xA8d01aC2a3dE674D3c15ACf68FD3EEA456288Ed3'    // Address of deployed VendorFactory contract
+        '0x0000000000000000000000000000000000000000'    //  Provide Address of deployed VendorFactory contract
     );
 
     // deploy a Vendor, and populate with some products
@@ -42,7 +42,7 @@ const deploy = async () => {
         }
     ];
 
-    const vendorAccount = '0xfdFD0782Be09156836291602BbFc4a8c1c89535c';
+    const vendorAccount = '0x0000000000000000000000000000000000000000';  // provide address
 
     const vendorAddress = await factory.methods.createVendor(
         vendorAccount, "BuyStuff.ie", "Buy anything your heart desires! Buy stuff!")
