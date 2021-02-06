@@ -17,7 +17,7 @@ const apiKey = "";      // You can add you own - Infura API key URL acquired thr
 const provider = new HDWalletProvider(privateKey, apiKey);
 
 // Address of deployed Vendor contract
-const vendorAddress = '0x9e48CE8b0b7e3025f5bd9fcdc68DE82CFE379A7f';
+const vendorAddress = '';  // Provide the address
 
 // Completely enabled for the Rinkeby network. Using truffle hdwallet and Infura etc.
 const web3 = new Web3(provider);
