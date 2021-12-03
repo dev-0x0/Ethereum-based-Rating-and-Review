@@ -1,11 +1,15 @@
 **READ FIRST:**
 _Ethereum is still(at the time of writing) a new technology, as are all of the tools used to develop, test
 and debug dApps built on Ethereum. All of the tools used in this project are subject to frequent updates, which
-will result in breaking changes to the code in this repository. The breakages will most likely occur in the
-code and methods used to deploy the Contractsc aswell as the code in the Contracts themselves. 
+will result in breaking changes to the code in this repository. Even during my time working on this project initially,
+I had to frequently update my code to keep up with the blistering pace of change in the development tools at the time.
+It's early days for this industry, and things are moving very fast.
+
+The breakages will most likely occur in the code and methods used to deploy the Contracts as well as the code in the Contracts themselves. 
 Getting the code in this repository to work for you will no doubt require plenty of reading of the 
-relevant documentations for the various tools and libraries involved, as they will have changed since I uploaded
+relevant documentations for the various tools and libraries involved, as they will have changed, possibly significantly, since I uploaded
 this code.
+
 Unfortunately, I cannot help anyone with this individually. Keeping abreast of the relevant documentation is 
 currently an absolute necessity for any developer building on Ethereum, and there is no way around that.
 I wish you luck in your endeavours. Thanks for reading!_
