@@ -1,5 +1,5 @@
 **READ FIRST:**
-_Ethereum is still(at the time of writing) a new technology, as are all of the tools used to develop, test
+_Ethereum is still (at the time of writing in 2021) a new technology, as are all of the tools used to develop, test
 and debug dApps built on Ethereum. All of the tools used in this project are subject to frequent updates, which
 will result in breaking changes to the code in this repository. Even during my time working on this project initially,
 I had to frequently update my code to keep up with the blistering pace of change in the development tools at the time.
