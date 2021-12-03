@@ -14,8 +14,6 @@ _Unfortunately, I cannot help anyone with this individually. Keeping abreast of 
 currently an absolute necessity for any developer building on Ethereum, and there is no way around that.
 I wish you luck in your endeavours. Thanks for reading!_
 
-_Google may be your friend, but Duckduckgo and Startpage won't talk about you behind your back ;p (At least... not at the time of writing...)_
-
 A Blockchain-based Rating & Review Management System for E-commerce
 -------------------------------------------------------------------
 
