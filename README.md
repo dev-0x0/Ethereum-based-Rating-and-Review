@@ -10,7 +10,7 @@ Getting the code in this repository to work for you will no doubt require plenty
 relevant documentations for the various tools and libraries involved, as they will have changed, possibly significantly, since I uploaded
 this code._
 
-_Unfortunately, I cannot help anyone with this individually. Keeping abreast of the relevant documentation is 
+_Unfortunately, I cannot help everyone with this individually, as I have received quite a number of emails regarding this. Keeping abreast of the relevant documentation is 
 currently an absolute necessity for any developer building on Ethereum, and there is no way around that.
 I wish you luck in your endeavours. Thanks for reading!_
 
